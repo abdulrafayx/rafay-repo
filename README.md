@@ -1,4 +1,4 @@
 # rafay-repo
 this s my first repository on git
 <br>
-author: abdul-rafay
+author: abdul-rafan
